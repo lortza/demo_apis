@@ -1,0 +1,1 @@
+Api demo to practice and explain basic api functionality. It includes a simple api call to a quote generator as well as a key-requiring API call to the New York Times wrapped in a class.
